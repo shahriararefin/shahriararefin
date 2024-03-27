@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 <!--
 **shahriararefin/shahriararefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahriararefin&theme=horizon)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriararefin&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahriararefin&show_icons=true&theme=transparent)
+
