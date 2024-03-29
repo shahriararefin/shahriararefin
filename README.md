@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<center>
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahriararefin&theme=horizon)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahriararefin&theme=horizon)](https://git.io/streak-stats ) <br>
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriararefin&layout=compact)
 
-</center>
+>Keep smiling and work harder
