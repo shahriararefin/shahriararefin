@@ -46,7 +46,6 @@ Table
 
 ![](https://komarev.com/ghpvc/?username=shahriararefin&color=blueviolet)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriararefin" alt="shahriararefin" /></a> </p>
 
 - 📫 How to reach me **shahriararefin7@gmail.com**
 
