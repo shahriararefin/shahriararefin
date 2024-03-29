@@ -2,6 +2,9 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=shahriararefin&color=blueviolet)
 
+- 📫 How to reach me <p> <a href="mailto:shahriararefin7@gmail.com"><img src="[https://icons8.com/icon/qyRpAggnV0zH/gmail](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_128px.png)"> </a> </p>
+
+
 **shahriararefin/shahriararefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -46,8 +49,6 @@ Table
 
 ![](https://komarev.com/ghpvc/?username=shahriararefin&color=blueviolet)
 
-
-- 📫 How to reach me **shahriararefin7@gmail.com**
 
 - ⚡ Fun fact **I love coding**
 
