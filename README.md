@@ -2,7 +2,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=shahriararefin&color=blueviolet)
 
-- 📫 How to reach me <p> <a href="mailto:shahriararefin7@gmail.com"><img src="[https://icons8.com/icon/qyRpAggnV0zH/gmail](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_128px.png)"> </a> </p>
+ <p> <a href="mailto:shahriararefin7@gmail.com"><img src="[https://icons8.com/icon/qyRpAggnV0zH/gmail](https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_128px.png)"> </a> </p>
 
 
 **shahriararefin/shahriararefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,7 +53,7 @@ Table
 
 
 - ⚡ Fun fact **I love coding**
-
+- 📫 How to reach me ✉︎shahriararefin7@gmail.com
 <h3 align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&random=false&width=630&lines=Undergraduate+Software+Engineering+Student;Currently+learning+Javascript;Self+Learner)](https://git.io/typing-svg)
