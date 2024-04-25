@@ -44,8 +44,8 @@ Table
 
 
 
-<h1 align="center">Hi 👋, I'm Shahriar</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Assalamualaikum 👋, I'm Shahriar</h1>
+<h4 align="center">A passionate frontend developer from Bangladesh</h4>
 
 
 
