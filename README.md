@@ -66,7 +66,7 @@ Table
 <p><a href="https://www.buymeacoffee.com/shahriararefin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahriararefin" /></a></p><br><br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahriararefin&theme=horizon)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahriararefin&theme=meta-dark)](https://git.io/streak-stats)<br>
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahriararefin&layout=compact)
 
